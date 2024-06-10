@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactApp1.Server", "ReactApp1.Server\ReactApp1.Server.csproj", "{27CB7041-C6DD-43EB-9C39-812D39779669}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactproject1", "reactproject1\reactproject1.esproj", "{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CB7041-C6DD-43EB-9C39-812D39779669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CB7041-C6DD-43EB-9C39-812D39779669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CB7041-C6DD-43EB-9C39-812D39779669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CB7041-C6DD-43EB-9C39-812D39779669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC893B3F-1139-4E70-91C9-1551FC1CC3EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7541E931-D3F7-4AB0-A740-803F4EFA109C}
+	EndGlobalSection
+EndGlobal
